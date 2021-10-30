@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZDpfi/PmkkMJaFDo6UCYGA9k96vb+cE56S8nbT+/0e5Sw1G5aqD29kASJrAOgT2iDgXkMfgrrsZMXp7Fl5e9w==",
+  "success": true,
+  "projectFilePath": "/Users/Richard/Desktop/C#/NETproject/NETproject.csproj",
+  "expectedPackageFiles": [
+    "/Users/Richard/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
